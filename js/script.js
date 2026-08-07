@@ -1,5 +1,5 @@
 // Display a message when the page loads
-console.log("Welcome to Jimenez Company!");
+console.log("Welcome to Jimenez Boxing!");
 
 // Smooth scrolling for navigation links
 document.querySelectorAll('nav a, .btn').forEach(link => {
